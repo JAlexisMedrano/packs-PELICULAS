@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1, HABLAME(2023)
+https://401qnf6va7.sw-cdnstream.com/hls2/01/01856/15g0onj1sxmd_,n,h,.urlset/master.m3u8?t=ipAJQL18fd0C9rJb0hkTKq56TqsBRwtvr27JsVluakE&s=1709386232&e=129600&f=9352526&srv=wmnctvnzzldw&i=0.4&sp=500&p1=wmnctvnzzldw&p2=wmnctvnzzldw&asn=20207
